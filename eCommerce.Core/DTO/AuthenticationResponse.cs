@@ -6,5 +6,9 @@ public record AuthenticationResponse(
     string? PersonName,
     string? Gender,
     string? Token,
-    bool Sucess
-    );
+    bool Success
+    )
+{
+    //Parameterless constructor for mapping purposes
+    public AuthenticationResponse() : this(default, default, default, default, default, default) { }
+}

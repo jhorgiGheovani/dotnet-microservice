@@ -1,0 +1,13 @@
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.deps.json
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.dll
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.pdb
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.AssemblyReference.cache
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfoInputs.cache
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfo.cs
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.sourcelink.json
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.dll
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\refint\eCommerce.Core.dll
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.pdb
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\ref\eCommerce.Core.dll

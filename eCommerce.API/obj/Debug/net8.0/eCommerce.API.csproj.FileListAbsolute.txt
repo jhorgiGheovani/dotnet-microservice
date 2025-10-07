@@ -35,3 +35,9 @@ C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.API\obj\Debu
 C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.API\obj\Debug\net8.0\eCommerce.API.genruntimeconfig.cache
 C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.API\obj\Debug\net8.0\ref\eCommerce.API.dll
 C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Asani\Desktop\Project\microservice\eCommerce.API\eCommerce.API\obj\Debug\net8.0\eCommerce.API.MvcApplicationPartsAssemblyInfo.cs

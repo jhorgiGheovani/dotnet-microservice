@@ -33,7 +33,7 @@ public class ExceptionHandlingMiddleware
 
             httpContext.Response.StatusCode = 500;
 
-            await httpContext.Response.WriteAsync("An unexpected fault happened. Try again later.");
+            await httpContext.Response.WriteAsync($"{ex.GetType().ToString()}: {ex.Message}");
         }
     }
 }
